@@ -7,4 +7,4 @@ Farei cursos para ter uma virada de Vida, Cansei de ficar estagnado!!!
 
 * Aula 02
   -
-  Nesta Aula aprendi como criar a estrutura de uma pagina _HTML_, suas _tags_, adicionar atributos e a validar a estruturação da página.  
+  Nesta Aula aprendi como criar a estrutura de uma pagina _HTML_, suas _tags_, adicionar atributos e a validar a estruturação da página no site _[The W3C Markup Validation Service](https://validator.w3.org/#validate_by_input)_.  
