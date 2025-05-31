@@ -3,7 +3,7 @@ Farei cursos para ter uma virada de Vida, Cansei de ficar estagnado!!!
 
 * Aula 01
   - 
-  Nessa Aula tive a incrivel experiência de _"startar"_ um servidor para vizualizar e navegar por paginas HTML.
+  Nessa Aula tive a incrivel experiência de _"startar"_ um servidor para vizualizar e navegar por paginas _HTML_.
 
 * Aula 02
   -
@@ -13,4 +13,4 @@ Farei cursos para ter uma virada de Vida, Cansei de ficar estagnado!!!
   -
   Nesta aula foi reforçado o entendimento da estruturação de um documento _HTML_, foi também explicado superficialmente a função do seguinte trecho de código:  
   `<meta name="viewport" content="width=device-width, initial-scale=1.0">`  
-  Esse trecho de código, serve basicamente para dispositivos mobile, serve para ajustar o _viewport_ de acordo com a tela do dispositivo.
+  Esse trecho de código, serve basicamente para dispositivos mobile, ele foi criado pela apple para ajustar o _viewport_ de acordo com a tela do dispositivo.
