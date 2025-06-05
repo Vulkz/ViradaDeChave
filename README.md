@@ -7,7 +7,15 @@ Farei cursos para ter uma virada de Vida, Cansei de ficar estagnado!!!
 
 * Aula 02
   -
-  Nesta Aula aprendi como criar a estrutura de uma pagina _HTML_, suas _tags_, adicionar atributos e a validar a estruturação da página no site _[The W3C Markup Validation Service](https://validator.w3.org/#validate_by_input)_.  
+  Nesta Aula aprendi como criar a estrutura de uma pagina _HTML_, suas _tags_, existem dois tipos de _tags_, as com abertura e fechamento e as _tags_ abertas.
+  ```
+  <!--Tag com abertura e fechamento-->
+  <div></div>
+
+  <!--Tag aberta (o contra barra no final é opcional-->
+  <br />
+  ```
+  Aprendi a dicionar atributos e a validar a estruturação da página no site _[The W3C Markup Validation Service](https://validator.w3.org/#validate_by_input)_.  
 
 * Aula 03
   -
