@@ -1,9 +1,9 @@
 /**
- * Não podemos criar variáveis com palavras reservadas
- * Não pode começar o nome de uma váriavel com um número
+ * Não podemos criar constantes com palavras reservadas
+ * Não pode começar o nome de uma constante com um número
  * Não podem conter espaços ou traços
  * Não podemos modificar o valor de uma constante
- * Variáveis precisam ter nomes significativos
+ * Constantes precisam ter nomes significativos
  * Utilizamos camelCase
  * Case-sensitive
  */
