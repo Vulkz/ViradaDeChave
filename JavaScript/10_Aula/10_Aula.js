@@ -9,5 +9,5 @@ console.log(caracterDeEscape.slice(-8, 11)); // Seleciona um intervalo
 
 console.log(caracterDeEscape.split(' ')); // Passa uma string para array
 
-console.log(caracterDeEscape.toUpperCase());
-console.log(caracterDeEscape.toLowerCase());
+console.log(caracterDeEscape.toUpperCase()); // Transforma em maiusculo
+console.log(caracterDeEscape.toLowerCase()); // Transforma em minusculo
